@@ -6,13 +6,14 @@ I am Catalin Chiprian, a 21-year-old student from the Republic of Moldova who is
 
 I obtained my high school diploma in mathematics and informatics in Iasi, Romania, and graduated with a European baccalaureate with an average grade of 8.63. I am currently in the process of obtaining my Bachelor's degree in Applied Computer Science at Saxion, and then I plan to pursue a Master's degree at the University of Twente.
 
+## Professional background:
+
+As I am still studying, I cannot say that I have any professional experience in the field. However, I am always open to new things and eager to explore new possibilities. During my studies, I worked on many projects and published some that I consider worthy of publication. These projects have allowed me to gain practical knowledge and apply theoretical concepts in a real-world setting.
+
+
 ## Reach me:
 
 [LinkedIn](https://www.linkedin.com/in/catalin-chiprian-662832236/)
 
 [Email](mailto:chiprianvcatalin@gmail.com)
 
-<!---
-CatalinChiprian/CatalinChiprian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
