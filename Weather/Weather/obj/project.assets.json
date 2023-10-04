@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reddr\\RiderProjects\\Weather\\Weather\\Weather.csproj",
+      "projectUniqueName": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\Weather\\Weather\\Weather.csproj",
       "projectName": "Weather",
-      "projectPath": "C:\\Users\\reddr\\RiderProjects\\Weather\\Weather\\Weather.csproj",
+      "projectPath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\Weather\\Weather\\Weather.csproj",
       "packagesPath": "C:\\Users\\reddr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reddr\\RiderProjects\\Weather\\Weather\\obj\\",
+      "outputPath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\Weather\\Weather\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\reddr\\AppData\\Roaming\\NuGet\\NuGet.Config",
