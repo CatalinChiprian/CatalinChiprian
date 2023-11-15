@@ -4,7 +4,7 @@ I am Catalin Chiprian, a 21-year-old student from the Republic of Moldova who is
 
 ## Educational background:
 
-I obtained my high school diploma in mathematics and informatics in Iasi, Romania, and graduated with a European baccalaureate with an average grade of 8.63. I am currently in the process of obtaining my Bachelor's degree in Applied Computer Science at Saxion, and then I plan to pursue a Master's degree at the University of Twente.
+I obtained my high school diploma in mathematics and informatics in Iasi, Romania, and graduated with a European baccalaureate with an average grade of 8.63. I am currently in the process of obtaining my Bachelor's degree in Applied Computer Science at Saxion, and then I plan to pursue a Master's degree at the University of Twente. I have also followed certified coursers that you can see on my LinkedIn page.
 
 ## Professional background:
 
