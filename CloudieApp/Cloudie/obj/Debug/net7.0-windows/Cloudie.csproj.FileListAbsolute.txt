@@ -1,0 +1,436 @@
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.sourcelink.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.sourcelink.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newer version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\New version\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.sourcelink.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.sourcelink.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.sourcelink.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestest\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Project-Software-Engineering\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\asase\OneDrive\Desktop\University\Project Software Engineering\Cloudie\Cloudie\bin\Debug\net7.0-windows\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.sourcelink.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\nunit.framework.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Newestfrfrtrustmebro\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\nunit.framework.legacy.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\nunit.framework.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\nunit.framework.legacy.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.sourcelink.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Project-Software-Engineering\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\Cloudie.exe
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\Cloudie.deps.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\Cloudie.runtimeconfig.json
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\LiveCharts.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\nunit.framework.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\nunit.framework.legacy.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.AssemblyReference.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie_MarkupCompile.lref
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\App.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\View\DeviceInfoPage.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\View\MainPageView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\View\WeatherGraphView.baml
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.g.resources
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfoInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.AssemblyInfo.cs
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CoreCompileInputs.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.csproj.CopyComplete
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\refint\Cloudie.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.pdb
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\Cloudie.genruntimeconfig.cache
+C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\ref\Cloudie.dll
