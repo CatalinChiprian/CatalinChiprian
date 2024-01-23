@@ -1,0 +1,431 @@
+\doxysection{Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model Class Reference}
+\hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model}{}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model}\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+
+
+View\+Model for the Weather Graph.  
+
+
+Inheritance diagram for Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=3.000000cm]{class_cloudie_1_1_view_model_1_1_weather_graph_view_model}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+enum \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6}{User\+Date\+Selection}} \{ \newline
+\mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a945ce3ea0b6904bbcd457cc0a4101890}{Last24H}} = 1
+, \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a702e97487c31fee5bf11b7c5c44a65cc}{Last\+Week}} = 7
+, \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a41eeb970a31e7ca35dbe1003b3694156}{Last\+Month}} = 30
+, \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a01101872440576cfea86e9a3f92527bb}{All\+Time}} = 100
+, \newline
+\mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a564a182654ec3a15d8e0bc882ac38ec8}{Custom\+Range}} = 1000
+ \}
+\begin{DoxyCompactList}\small\item\em Enum for user date selection. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_aeed8bd7e7b548b862e585a4119fec99d}{Graphs\+Per\+City}} ()
+\begin{DoxyCompactList}\small\item\em Takes all the cities from the Cities Collection and formats them after the City\+Data. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a4248bc44e2aee2dcd6093761fa4551fe}{Weather\+Graph\+View\+Model}} (\mbox{\hyperlink{class_cloudie_1_1_store_1_1_navigation_store}{Navigation\+Store}} navigation\+Store, \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats}{Weather\+Stats}} weather\+Stats)
+\begin{DoxyCompactList}\small\item\em Constructor for Weather\+Graph\+View\+Model. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+bool \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a489154356486b055e8d3377e6eb5b9bc}{Date\+Filter\+Changed}} = false
+\begin{DoxyCompactList}\small\item\em Indicates if the date filter has changed. \end{DoxyCompactList}\item 
+readonly \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats}{Weather\+Stats}} \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a240d8d9f5d81062521f792bd262121ec}{weatherS}}
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+Dictionary$<$ string, IList$<$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}} $>$ $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ad7352d027c89b88f070810a4e5a8d723}{Checked\+Cities\+Data}} = new Dictionary$<$string, IList$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$$>$()\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Gets the checked cities data. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6}{User\+Date\+Selection}} \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a7e23cdd6df6f799be096a7952ba94bcd}{Selected\+Filter}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Enum for the selected date. \end{DoxyCompactList}\item 
+Date\+Time? \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5af8cb0e2f954826bd206431bced3b1c}{Start\+Date}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Date\+Time? \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a523c0f8d29f34ab5b3d4fc20ceb92814}{End\+Date}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Visibility \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5009d5033453546fa2661fdb0fddb292}{Date\+Visibility}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Array \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a2cf8ec3a12d1d8353a9a1a067cd9e2c9}{User\+Date\+Selection\+Values}}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\item 
+Func$<$ double, string $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ac74f8cd7d47a3f42a73c7e3c06c09f8b}{YFormatter}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+double \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab9a84775eb3640a100e487ef912a9d19}{Actual\+Height}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+double \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af2dc1381d8bdd322925509ccddb2fc1c}{Graph\+Height}}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\item 
+double \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a2df201c716f4a024802ced2f11a71744}{Actual\+Width}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+double \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a9b904167a75fa8ee2449ce6a79d05cd8}{Graph\+Width}}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\item 
+List$<$ int $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5f96b6cf7db2d546fe3b88befb7cfbda}{Temp\+Graph\+Row\+Col\+Span}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+List$<$ int $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab8848aee681ad60ec0b11500c2aa0b4b}{Hum\+Graph\+Row\+Col\+Span}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+List$<$ int $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a483a647c6589a7197549ac125a695773}{Ill\+Graph\+Row\+Col\+Span}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+List$<$ int $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3962b5540964707bafdcab592d343138}{Press\+Graph\+Row\+Col\+Span}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+List$<$ int $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af07900affb9a97c1c0620169d2a5f61f}{Temp\+Graph\+Coordonates}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+List$<$ int $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3e8473ac5280f50411c15dc2bf176cc9}{Hum\+Graph\+Coordonates}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+List$<$ int $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_aef31832beaf4f47218e69757cf958b41}{Ill\+Graph\+Coordonates}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+List$<$ int $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a6ec306e67da59cd7dc9be8f88222ba8d}{Press\+Graph\+Coordonates}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+bool \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a4d0d7cc16f2ac4671c88ae2a8f4b7e7a}{Weather\+Temp\+Visible}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+bool \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab89b8f9719fc26f38e921f2af50ff742}{Weather\+Hum\+Visible}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+bool \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a77823c3641739c03198ced53622c3e2a}{Weather\+Ill\+Visible}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+bool \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a1050cece16d2e86e5536765b3963b4a5}{Weather\+Press\+Visible}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Series\+Collection \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3e1eff9d071bd9e7abdad708a470612b}{Weather\+Temp}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Series\+Collection \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_add803512603166ede21b017146b68a99}{Weather\+Hum}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Series\+Collection \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a1ff1f2c6192a94d8de7494615e38c999}{Weather\+Ill}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Series\+Collection \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab58a03394ae1f2667b488da62d9e3fdd}{Weather\+Press}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Observable\+Collection$<$ string $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a55701d9a1dd6500190458481a6fa636e}{Labels}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+ICommand \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a36661aac7450a9714bf5b43837e58ef5}{To\+Stats}}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\item 
+ICommand \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af3be0672a63206331284022b0e0e7451}{To\+Graphs}}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\item 
+ICommand \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a39532a0181fa025cd8d2795d7d3955a0}{Checked\+City}}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\item 
+ICommand \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a28f7e030b22e46854a7adc65111288ec}{To\+Device\+Info}}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\item 
+string \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a941aa660f56cd506cc9415cca2b6bb15}{City}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\item 
+Observable\+Collection$<$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_city_data}{City\+Data}} $>$ \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a7c7535cdf47dd128e5dbd0a3dccadef8}{Cities}}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Additional Inherited Members}
+\doxysubsection*{Protected Member Functions inherited from \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_view_model_base}{Cloudie.\+View\+Model.\+View\+Model\+Base}}}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_view_model_base_a0474e7a83f8e0c7100b40e9ace29c98c}{On\+Property\+Changed}} (string property\+Name)
+\begin{DoxyCompactList}\small\item\em Called when a property value changes. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Events inherited from \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_view_model_base}{Cloudie.\+View\+Model.\+View\+Model\+Base}}}
+\begin{DoxyCompactItemize}
+\item 
+Property\+Changed\+Event\+Handler \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_view_model_base_a6042068258fe36939f1cd4ce3501bc7f}{Property\+Changed}}
+\begin{DoxyCompactList}\small\item\em Occurs when a property value changes. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+View\+Model for the Weather Graph. 
+
+\doxysubsection{Member Enumeration Documentation}
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!UserDateSelection@{UserDateSelection}}
+\index{UserDateSelection@{UserDateSelection}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{UserDateSelection}{UserDateSelection}}
+{\footnotesize\ttfamily enum \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6}{Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+User\+Date\+Selection}}}
+
+
+
+Enum for user date selection. 
+
+\begin{DoxyEnumFields}{Enumerator}
+\raisebox{\heightof{T}}[0pt][0pt]{\index{Last24H@{Last24H}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!Last24H@{Last24H}}}\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a945ce3ea0b6904bbcd457cc0a4101890}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a945ce3ea0b6904bbcd457cc0a4101890} 
+Last24H&\\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{LastWeek@{LastWeek}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!LastWeek@{LastWeek}}}\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a702e97487c31fee5bf11b7c5c44a65cc}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a702e97487c31fee5bf11b7c5c44a65cc} 
+Last\+Week&\\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{LastMonth@{LastMonth}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!LastMonth@{LastMonth}}}\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a41eeb970a31e7ca35dbe1003b3694156}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a41eeb970a31e7ca35dbe1003b3694156} 
+Last\+Month&\\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{AllTime@{AllTime}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!AllTime@{AllTime}}}\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a01101872440576cfea86e9a3f92527bb}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a01101872440576cfea86e9a3f92527bb} 
+All\+Time&\\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{CustomRange@{CustomRange}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!CustomRange@{CustomRange}}}\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a564a182654ec3a15d8e0bc882ac38ec8}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6a564a182654ec3a15d8e0bc882ac38ec8} 
+Custom\+Range&\\
+\hline
+
+\end{DoxyEnumFields}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a4248bc44e2aee2dcd6093761fa4551fe}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a4248bc44e2aee2dcd6093761fa4551fe} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherGraphViewModel@{WeatherGraphViewModel}}
+\index{WeatherGraphViewModel@{WeatherGraphViewModel}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherGraphViewModel()}{WeatherGraphViewModel()}}
+{\footnotesize\ttfamily Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Graph\+View\+Model (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_cloudie_1_1_store_1_1_navigation_store}{Navigation\+Store}}}]{navigation\+Store,  }\item[{\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats}{Weather\+Stats}}}]{weather\+Stats }\end{DoxyParamCaption})}
+
+
+
+Constructor for Weather\+Graph\+View\+Model. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em navigation\+Store} & The navigation store.\\
+\hline
+{\em weather\+Stats} & The weather stats.\\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_aeed8bd7e7b548b862e585a4119fec99d}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_aeed8bd7e7b548b862e585a4119fec99d} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!GraphsPerCity@{GraphsPerCity}}
+\index{GraphsPerCity@{GraphsPerCity}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{GraphsPerCity()}{GraphsPerCity()}}
+{\footnotesize\ttfamily void Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Graphs\+Per\+City (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Takes all the cities from the Cities Collection and formats them after the City\+Data. 
+
+
+
+\doxysubsection{Member Data Documentation}
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a489154356486b055e8d3377e6eb5b9bc}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a489154356486b055e8d3377e6eb5b9bc} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!DateFilterChanged@{DateFilterChanged}}
+\index{DateFilterChanged@{DateFilterChanged}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{DateFilterChanged}{DateFilterChanged}}
+{\footnotesize\ttfamily bool Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Date\+Filter\+Changed = false}
+
+
+
+Indicates if the date filter has changed. 
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a240d8d9f5d81062521f792bd262121ec}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a240d8d9f5d81062521f792bd262121ec} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!weatherS@{weatherS}}
+\index{weatherS@{weatherS}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{weatherS}{weatherS}}
+{\footnotesize\ttfamily readonly \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats}{Weather\+Stats}} Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+weatherS}
+
+
+
+\doxysubsection{Property Documentation}
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab9a84775eb3640a100e487ef912a9d19}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab9a84775eb3640a100e487ef912a9d19} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!ActualHeight@{ActualHeight}}
+\index{ActualHeight@{ActualHeight}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{ActualHeight}{ActualHeight}}
+{\footnotesize\ttfamily double Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Actual\+Height\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a2df201c716f4a024802ced2f11a71744}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a2df201c716f4a024802ced2f11a71744} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!ActualWidth@{ActualWidth}}
+\index{ActualWidth@{ActualWidth}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{ActualWidth}{ActualWidth}}
+{\footnotesize\ttfamily double Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Actual\+Width\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ad7352d027c89b88f070810a4e5a8d723}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ad7352d027c89b88f070810a4e5a8d723} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!CheckedCitiesData@{CheckedCitiesData}}
+\index{CheckedCitiesData@{CheckedCitiesData}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{CheckedCitiesData}{CheckedCitiesData}}
+{\footnotesize\ttfamily Dictionary$<$string, IList$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$ $>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Checked\+Cities\+Data = new Dictionary$<$string, IList$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$$>$()\hspace{0.3cm}{\ttfamily [get]}}
+
+
+
+Gets the checked cities data. 
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a39532a0181fa025cd8d2795d7d3955a0}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a39532a0181fa025cd8d2795d7d3955a0} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!CheckedCity@{CheckedCity}}
+\index{CheckedCity@{CheckedCity}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{CheckedCity}{CheckedCity}}
+{\footnotesize\ttfamily ICommand Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Checked\+City\hspace{0.3cm}{\ttfamily [get]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a7c7535cdf47dd128e5dbd0a3dccadef8}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a7c7535cdf47dd128e5dbd0a3dccadef8} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!Cities@{Cities}}
+\index{Cities@{Cities}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{Cities}{Cities}}
+{\footnotesize\ttfamily Observable\+Collection$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_city_data}{City\+Data}}$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Cities\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a941aa660f56cd506cc9415cca2b6bb15}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a941aa660f56cd506cc9415cca2b6bb15} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!City@{City}}
+\index{City@{City}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{City}{City}}
+{\footnotesize\ttfamily string Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+City\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5009d5033453546fa2661fdb0fddb292}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5009d5033453546fa2661fdb0fddb292} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!DateVisibility@{DateVisibility}}
+\index{DateVisibility@{DateVisibility}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{DateVisibility}{DateVisibility}}
+{\footnotesize\ttfamily Visibility Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Date\+Visibility\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a523c0f8d29f34ab5b3d4fc20ceb92814}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a523c0f8d29f34ab5b3d4fc20ceb92814} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!EndDate@{EndDate}}
+\index{EndDate@{EndDate}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{EndDate}{EndDate}}
+{\footnotesize\ttfamily Date\+Time? Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+End\+Date\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af2dc1381d8bdd322925509ccddb2fc1c}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af2dc1381d8bdd322925509ccddb2fc1c} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!GraphHeight@{GraphHeight}}
+\index{GraphHeight@{GraphHeight}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{GraphHeight}{GraphHeight}}
+{\footnotesize\ttfamily double Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Graph\+Height\hspace{0.3cm}{\ttfamily [get]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a9b904167a75fa8ee2449ce6a79d05cd8}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a9b904167a75fa8ee2449ce6a79d05cd8} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!GraphWidth@{GraphWidth}}
+\index{GraphWidth@{GraphWidth}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{GraphWidth}{GraphWidth}}
+{\footnotesize\ttfamily double Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Graph\+Width\hspace{0.3cm}{\ttfamily [get]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3e8473ac5280f50411c15dc2bf176cc9}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3e8473ac5280f50411c15dc2bf176cc9} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!HumGraphCoordonates@{HumGraphCoordonates}}
+\index{HumGraphCoordonates@{HumGraphCoordonates}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{HumGraphCoordonates}{HumGraphCoordonates}}
+{\footnotesize\ttfamily List$<$int$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Hum\+Graph\+Coordonates\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab8848aee681ad60ec0b11500c2aa0b4b}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab8848aee681ad60ec0b11500c2aa0b4b} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!HumGraphRowColSpan@{HumGraphRowColSpan}}
+\index{HumGraphRowColSpan@{HumGraphRowColSpan}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{HumGraphRowColSpan}{HumGraphRowColSpan}}
+{\footnotesize\ttfamily List$<$int$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Hum\+Graph\+Row\+Col\+Span\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_aef31832beaf4f47218e69757cf958b41}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_aef31832beaf4f47218e69757cf958b41} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!IllGraphCoordonates@{IllGraphCoordonates}}
+\index{IllGraphCoordonates@{IllGraphCoordonates}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{IllGraphCoordonates}{IllGraphCoordonates}}
+{\footnotesize\ttfamily List$<$int$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Ill\+Graph\+Coordonates\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a483a647c6589a7197549ac125a695773}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a483a647c6589a7197549ac125a695773} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!IllGraphRowColSpan@{IllGraphRowColSpan}}
+\index{IllGraphRowColSpan@{IllGraphRowColSpan}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{IllGraphRowColSpan}{IllGraphRowColSpan}}
+{\footnotesize\ttfamily List$<$int$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Ill\+Graph\+Row\+Col\+Span\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a55701d9a1dd6500190458481a6fa636e}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a55701d9a1dd6500190458481a6fa636e} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!Labels@{Labels}}
+\index{Labels@{Labels}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{Labels}{Labels}}
+{\footnotesize\ttfamily Observable\+Collection$<$string$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Labels\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a6ec306e67da59cd7dc9be8f88222ba8d}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a6ec306e67da59cd7dc9be8f88222ba8d} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!PressGraphCoordonates@{PressGraphCoordonates}}
+\index{PressGraphCoordonates@{PressGraphCoordonates}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{PressGraphCoordonates}{PressGraphCoordonates}}
+{\footnotesize\ttfamily List$<$int$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Press\+Graph\+Coordonates\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3962b5540964707bafdcab592d343138}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3962b5540964707bafdcab592d343138} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!PressGraphRowColSpan@{PressGraphRowColSpan}}
+\index{PressGraphRowColSpan@{PressGraphRowColSpan}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{PressGraphRowColSpan}{PressGraphRowColSpan}}
+{\footnotesize\ttfamily List$<$int$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Press\+Graph\+Row\+Col\+Span\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a7e23cdd6df6f799be096a7952ba94bcd}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a7e23cdd6df6f799be096a7952ba94bcd} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!SelectedFilter@{SelectedFilter}}
+\index{SelectedFilter@{SelectedFilter}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{SelectedFilter}{SelectedFilter}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab45f304f97cb45918af79a25d112d3f6}{User\+Date\+Selection}} Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Selected\+Filter\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Enum for the selected date. 
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5af8cb0e2f954826bd206431bced3b1c}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5af8cb0e2f954826bd206431bced3b1c} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!StartDate@{StartDate}}
+\index{StartDate@{StartDate}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{StartDate}{StartDate}}
+{\footnotesize\ttfamily Date\+Time? Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Start\+Date\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af07900affb9a97c1c0620169d2a5f61f}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af07900affb9a97c1c0620169d2a5f61f} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!TempGraphCoordonates@{TempGraphCoordonates}}
+\index{TempGraphCoordonates@{TempGraphCoordonates}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{TempGraphCoordonates}{TempGraphCoordonates}}
+{\footnotesize\ttfamily List$<$int$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Temp\+Graph\+Coordonates\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5f96b6cf7db2d546fe3b88befb7cfbda}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a5f96b6cf7db2d546fe3b88befb7cfbda} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!TempGraphRowColSpan@{TempGraphRowColSpan}}
+\index{TempGraphRowColSpan@{TempGraphRowColSpan}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{TempGraphRowColSpan}{TempGraphRowColSpan}}
+{\footnotesize\ttfamily List$<$int$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Temp\+Graph\+Row\+Col\+Span\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a28f7e030b22e46854a7adc65111288ec}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a28f7e030b22e46854a7adc65111288ec} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!ToDeviceInfo@{ToDeviceInfo}}
+\index{ToDeviceInfo@{ToDeviceInfo}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{ToDeviceInfo}{ToDeviceInfo}}
+{\footnotesize\ttfamily ICommand Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+To\+Device\+Info\hspace{0.3cm}{\ttfamily [get]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af3be0672a63206331284022b0e0e7451}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_af3be0672a63206331284022b0e0e7451} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!ToGraphs@{ToGraphs}}
+\index{ToGraphs@{ToGraphs}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{ToGraphs}{ToGraphs}}
+{\footnotesize\ttfamily ICommand Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+To\+Graphs\hspace{0.3cm}{\ttfamily [get]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a36661aac7450a9714bf5b43837e58ef5}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a36661aac7450a9714bf5b43837e58ef5} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!ToStats@{ToStats}}
+\index{ToStats@{ToStats}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{ToStats}{ToStats}}
+{\footnotesize\ttfamily ICommand Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+To\+Stats\hspace{0.3cm}{\ttfamily [get]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a2cf8ec3a12d1d8353a9a1a067cd9e2c9}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a2cf8ec3a12d1d8353a9a1a067cd9e2c9} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!UserDateSelectionValues@{UserDateSelectionValues}}
+\index{UserDateSelectionValues@{UserDateSelectionValues}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{UserDateSelectionValues}{UserDateSelectionValues}}
+{\footnotesize\ttfamily Array Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+User\+Date\+Selection\+Values\hspace{0.3cm}{\ttfamily [get]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_add803512603166ede21b017146b68a99}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_add803512603166ede21b017146b68a99} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherHum@{WeatherHum}}
+\index{WeatherHum@{WeatherHum}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherHum}{WeatherHum}}
+{\footnotesize\ttfamily Series\+Collection Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Hum\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab89b8f9719fc26f38e921f2af50ff742}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab89b8f9719fc26f38e921f2af50ff742} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherHumVisible@{WeatherHumVisible}}
+\index{WeatherHumVisible@{WeatherHumVisible}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherHumVisible}{WeatherHumVisible}}
+{\footnotesize\ttfamily bool Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Hum\+Visible\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a1ff1f2c6192a94d8de7494615e38c999}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a1ff1f2c6192a94d8de7494615e38c999} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherIll@{WeatherIll}}
+\index{WeatherIll@{WeatherIll}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherIll}{WeatherIll}}
+{\footnotesize\ttfamily Series\+Collection Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Ill\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a77823c3641739c03198ced53622c3e2a}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a77823c3641739c03198ced53622c3e2a} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherIllVisible@{WeatherIllVisible}}
+\index{WeatherIllVisible@{WeatherIllVisible}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherIllVisible}{WeatherIllVisible}}
+{\footnotesize\ttfamily bool Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Ill\+Visible\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab58a03394ae1f2667b488da62d9e3fdd}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ab58a03394ae1f2667b488da62d9e3fdd} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherPress@{WeatherPress}}
+\index{WeatherPress@{WeatherPress}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherPress}{WeatherPress}}
+{\footnotesize\ttfamily Series\+Collection Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Press\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a1050cece16d2e86e5536765b3963b4a5}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a1050cece16d2e86e5536765b3963b4a5} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherPressVisible@{WeatherPressVisible}}
+\index{WeatherPressVisible@{WeatherPressVisible}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherPressVisible}{WeatherPressVisible}}
+{\footnotesize\ttfamily bool Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Press\+Visible\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3e1eff9d071bd9e7abdad708a470612b}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a3e1eff9d071bd9e7abdad708a470612b} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherTemp@{WeatherTemp}}
+\index{WeatherTemp@{WeatherTemp}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherTemp}{WeatherTemp}}
+{\footnotesize\ttfamily Series\+Collection Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Temp\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a4d0d7cc16f2ac4671c88ae2a8f4b7e7a}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_a4d0d7cc16f2ac4671c88ae2a8f4b7e7a} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!WeatherTempVisible@{WeatherTempVisible}}
+\index{WeatherTempVisible@{WeatherTempVisible}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{WeatherTempVisible}{WeatherTempVisible}}
+{\footnotesize\ttfamily bool Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+Weather\+Temp\+Visible\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+\Hypertarget{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ac74f8cd7d47a3f42a73c7e3c06c09f8b}\label{class_cloudie_1_1_view_model_1_1_weather_graph_view_model_ac74f8cd7d47a3f42a73c7e3c06c09f8b} 
+\index{Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}!YFormatter@{YFormatter}}
+\index{YFormatter@{YFormatter}!Cloudie.ViewModel.WeatherGraphViewModel@{Cloudie.ViewModel.WeatherGraphViewModel}}
+\doxysubsubsection{\texorpdfstring{YFormatter}{YFormatter}}
+{\footnotesize\ttfamily Func$<$double, string$>$ Cloudie.\+View\+Model.\+Weather\+Graph\+View\+Model.\+YFormatter\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Cloudie/\+View\+Model/\mbox{\hyperlink{_weather_graph_view_model_8cs}{Weather\+Graph\+View\+Model.\+cs}}\end{DoxyCompactItemize}
