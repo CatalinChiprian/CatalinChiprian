@@ -111,7 +111,7 @@ namespace Cloudie.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Cloudie;V1.0.0.0;component/view/deviceinfopage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Cloudie;component/view/deviceinfopage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\DeviceInfoPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

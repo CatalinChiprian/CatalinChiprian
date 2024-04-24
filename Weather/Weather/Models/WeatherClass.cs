@@ -32,7 +32,7 @@ public class WeatherClass
         {
             var client = new HttpClient();
             var baseurl =
-                $"https://api.weatherapi.com/v1/forecast.json?key=fd45287e8f574ef0b6c163950231909&q={city}&days=14";
+                $"https://api.weatherapi.com/v1/forecast.json?key=3bcf288382334aebb93151712242404&q={city}&days=14";
             var response = client.GetAsync(baseurl).Result;
             if (response.StatusCode == (HttpStatusCode)400)
                 throw new Exception("Invalid location!");

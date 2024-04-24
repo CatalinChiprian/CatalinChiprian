@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8v58j3ozs1SW/UJ0zjzgaCA8O2heiHjizN0J6em9HFOoAuSp4iK8rQknr272y8lOprcOoFdqmYxCOdTQ3A/UTA==",
+  "dgSpecHash": "IuYVBKQkxllqVXj3ms1ODwKc2kKKIOU0I746LinyTNz3K4dHNKlSwocxWeVMFiJcMdy36jJBmOnsgmwdIBys/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\CloudieApp\\CloudieTesting\\CloudieTesting.csproj",
+  "projectFilePath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\CloudieApp\\CloudieTesting\\CloudieTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reddr\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\reddr\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

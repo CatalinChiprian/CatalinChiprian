@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\obj\Debug\net7.0-windows\
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Cloudie\obj\Debug\net7.0-windows\
 Cloudie
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\reddr\OneDrive - Saxion\Desktop\CloudieApp\Cloudie\App.xaml
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\CloudieApp\Cloudie\App.xaml
 41708490749
 
 241619149913
 205-888424838
 MainWindow.xaml;View\DeviceInfoPage.xaml;View\MainPageView.xaml;View\WeatherGraphView.xaml;
 
-True
+False
 

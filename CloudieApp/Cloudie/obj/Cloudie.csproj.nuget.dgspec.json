@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\CloudieApp\\Cloudie\\Cloudie.csproj": {}
+    "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\CloudieApp\\Cloudie\\Cloudie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\CloudieApp\\Cloudie\\Cloudie.csproj": {
+    "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\CloudieApp\\Cloudie\\Cloudie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\CloudieApp\\Cloudie\\Cloudie.csproj",
+        "projectUniqueName": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\CloudieApp\\Cloudie\\Cloudie.csproj",
         "projectName": "Cloudie",
-        "projectPath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\CloudieApp\\Cloudie\\Cloudie.csproj",
+        "projectPath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\CloudieApp\\Cloudie\\Cloudie.csproj",
         "packagesPath": "C:\\Users\\reddr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\CloudieApp\\Cloudie\\obj\\",
+        "outputPath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\CloudieApp\\Cloudie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reddr\\AppData\\Roaming\\NuGet\\NuGet.Config",

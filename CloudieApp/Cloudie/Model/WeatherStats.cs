@@ -141,7 +141,10 @@ namespace Cloudie.Model
             }
             try
             {
-                string query = "select * from DATA.Sensor as s join DATA.Devices as d on s.Device_ID = d.Device_ID WHERE s.Date_Time >= DATEADD(day,-10, GETDATE()) AND d.City = @City";
+                // Originally the query took the last 10 days of data, but the project is done and there is no new data coming in.
+                // string query = "select * from DATA.Sensor as s join DATA.Devices as d on s.Device_ID = d.Device_ID WHERE s.Date_Time >= DATEADD(day,-10, GETDATE()) AND d.City = @City";
+
+                string query = "select * from DATA.Sensor as s join DATA.Devices as d on s.Device_ID = d.Device_ID WHERE d.City = @City";
                 var parameters = new List<SqlParameter> { new SqlParameter("@City", City) };
                 var dt = await ExecuteQuery(query, parameters);
 

@@ -33,7 +33,6 @@ C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Wea
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\bin\Debug\net7.0-windows\Weather.runtimeconfig.json
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\bin\Debug\net7.0-windows\Weather.dll
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\bin\Debug\net7.0-windows\Weather.pdb
-C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\obj\Debug\net7.0-windows\Weather.csproj.AssemblyReference.cache
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\obj\Debug\net7.0-windows\Views\CardDay.baml
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\obj\Debug\net7.0-windows\Views\WeatherWelcome.baml
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\obj\Debug\net7.0-windows\App.baml
@@ -58,3 +57,4 @@ C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Wea
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\obj\Debug\net7.0-windows\Weather.pdb
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\obj\Debug\net7.0-windows\Weather.genruntimeconfig.cache
 C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\obj\Debug\net7.0-windows\ref\Weather.dll
+C:\Users\reddr\OneDrive - Saxion\Desktop\Univ\Github\CatalinChiprian\Weather\Weather\obj\Debug\net7.0-windows\Weather.sourcelink.json

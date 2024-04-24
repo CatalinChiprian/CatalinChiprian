@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGT4ZBP/o+/9ZhbGP0jrpv4NSrtEaI8sF6AWrcEVAvWewg1GQTvC0M2tFeY15J3toSxOzI9M7mG8Kdco43uLgg==",
+  "dgSpecHash": "+8+Wrpg06nS51V80w64VkhCs8NCUMLaTXTaZ5NB7qMw10cAjKKJ/1azpHJhlpZNqvSHnwy0FVdGidTgM1B2/dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\CloudieApp\\Cloudie\\Cloudie.csproj",
+  "projectFilePath": "C:\\Users\\reddr\\OneDrive - Saxion\\Desktop\\Univ\\Github\\CatalinChiprian\\CloudieApp\\Cloudie\\Cloudie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reddr\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\reddr\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
