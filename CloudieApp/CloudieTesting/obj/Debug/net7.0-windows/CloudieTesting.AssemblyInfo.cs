@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudieTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c72e8f2c98097a93f0b7509be91dfc3fa86d2c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+738c633668adf5be45bf2c5176fc9f85848bf42d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudieTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudieTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

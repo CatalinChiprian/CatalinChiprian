@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TicTacToe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Tic Tac Toe</h1>
+    <div id="menuContainer">
+        <h1>Choose Game Mode</h1>
+        <button id="onePlayerButton">1 Player</button>
+        <button id="twoPlayerButton">2 Players</button>
+    </div>
+    <div id="difficultyContainer" style="display: none ;">
+        <h1>Choose Difficulty</h1>
+        <button id="easyButton">Child</button>
+        <button id="hardButton">Professional Tic Tac Toer</button>
+        <button id="backButton">Back To Menu</button>
+    </div>
+    <div id="gameContainer" style="display: none ;">
+        <div id="cellContainer">
+            <div cellIndex="0" class="cell"></div>
+            <div cellIndex="1" class="cell"></div>
+            <div cellIndex="2" class="cell"></div>
+            <div cellIndex="3" class="cell"></div>
+            <div cellIndex="4" class="cell"></div>
+            <div cellIndex="5" class="cell"></div>
+            <div cellIndex="6" class="cell"></div>
+            <div cellIndex="7" class="cell"></div>
+            <div cellIndex="8" class="cell"></div>
+        </div>
+        <h2 id="statusText">Player 1's turn</h2>
+        <h3 id="scoreboard">Score: X - 0 | O - 0 | Draw - 0</h3>
+        <button id="restartButton">Restart Game</button>
+        <button id="resetButton">Reset Scoreboard</button>
+        <button id="backButton">Back To Menu</button>
+
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
