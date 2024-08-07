@@ -4,6 +4,7 @@ const scoreText = document.querySelector("#scoreText");
 const highscore = document.querySelector("#highScore");
 const resetButton = document.querySelector("#resetBtn");
 const borderCollisionButton = document.querySelector("#borderCollisionBtn");
+const BackToMenuButton = document.querySelector('#backToMenu');
 const gameWidth = gameBoard.width;
 const gameHeight = gameBoard.height;
 const boardBackground = "white";
@@ -28,6 +29,10 @@ let snake = [
     {x:0, y:0}
 ];
 
+
+BackToMenuButton.addEventListener('click', () => {
+    window.location.href = "../index.html";
+});
 window.addEventListener("keydown", changeDirection);
 resetButton.addEventListener("click", resetGame);
 borderCollisionButton.addEventListener("click", () => {

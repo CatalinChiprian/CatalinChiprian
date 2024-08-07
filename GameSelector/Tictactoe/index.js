@@ -3,6 +3,7 @@ const statusText = document.querySelector('#statusText');
 const restartButton = document.querySelector('#restartButton');
 const resetButton = document.querySelector('#resetButton');
 const backButtons = document.querySelectorAll('#backButton');
+const BackToMenuButton = document.querySelector('#backToMenu');
 const onePlayerButton = document.querySelector('#onePlayerButton');
 const twoPlayerButton = document.querySelector('#twoPlayerButton');
 const difficultyButtons = {
@@ -46,6 +47,10 @@ let winsNumber = {
 
 let gameActive = false;
 
+
+BackToMenuButton.addEventListener('click', () => {
+    window.location.href = "../index.html";
+});
 
 backButtons.forEach(button => {
     button.addEventListener('click', BackToMenu);
@@ -280,7 +285,7 @@ function ResetScoreboard() {
 function BackToMenu() {
     Clear();
     ResetScoreboard();
-    currentPlayer = "X";
+    currentPlayer = "Player1";
     gameContainer.style.display = 'none';
     menuContainer.style.display = 'block';
     diffcultyContainer.style.display = 'none';
