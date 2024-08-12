@@ -1,0 +1,35 @@
+.green-circular-button {
+  width: 35px; /* Adjust the width and height to make it circular */
+  height: 35px;
+  border-radius: 50%; /* Makes it circular */
+  background-color: green; /* Sets the background color to green */
+  border: none; /* Removes the border */
+  cursor: pointer; /* Adds a pointer cursor on hover */
+  display: flex; /* Allows centering content */
+  justify-content: center; /* Horizontally centers content */
+  align-items: center; /* Vertically centers content */
+  color: white; /* Sets the text color to white */
+  font-size: 20px; /* Adjust the font size */
+}
+
+.red-circular-button {
+    width: 35px; /* Adjust the width and height to make it circular */
+    height: 35px;
+    border-radius: 50%; /* Makes it circular */
+    background-color: red; /* Sets the background color to green */
+    border: none; /* Removes the border */
+    cursor: pointer; /* Adds a pointer cursor on hover */
+    display: flex; /* Allows centering content */
+    justify-content: center; /* Horizontally centers content */
+    align-items: center; /* Vertically centers content */
+    color: white; /* Sets the text color to white */
+    font-size: 20px; /* Adjust the font size */
+  }
+
+.plus-sign {
+  font-weight: bold; /* Makes the "+" symbol bold */
+}
+
+.minus-sign {
+    font-weight: bold; /* Makes the "+" symbol bold */
+  }
