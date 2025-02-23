@@ -152,11 +152,9 @@ accordionItemsInside.forEach((insideItem) => {
         content.style.height = isOpen ? content.scrollHeight + 'px' : 0;
         if (icon) icon.className = isOpen ? 'ri-subtract-line' : 'ri-add-line';
 
-        updateParentHeight(insideItem, isOpen);
-        
-        // setTimeout(() => {
-        //     updateParentHeight(insideItem, isOpen);
-        //   }, 300); 
+        setTimeout(() => {
+            updateParentHeight(insideItem, isOpen);
+        }, 300);
 
     });
 });
