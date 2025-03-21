@@ -1,10 +1,8 @@
+*/.vs
+*/node_modules
 CloudieApp/Cloudie/bin
 CloudieApp/Cloudie/obj
-CloudieApp/.vs
 CloudieApp/CloudieTesting/bin
 CloudieApp/CloudieTesting/obj
 Weather/Weather/bin
 Weather/Weather/obj
-Weather/.vs
-To do list/node_modules
-LiveChat/node_modules
