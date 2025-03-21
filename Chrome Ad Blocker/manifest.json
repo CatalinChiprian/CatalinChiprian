@@ -1,0 +1,23 @@
+{
+    "name": "Catalin's Ad Blocker",
+    "description": "This extension blocks ads.",
+    "version": "1.0.0",
+    "icons": {
+        "16": "resources/icon.png",
+        "48": "resources/icon.png",
+        "128": "resources/icon.png"
+    },
+    "manifest_version": 3,
+    "permissions": [
+        "declarativeNetRequest"
+    ],
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "blocker",
+                "enabled": true,
+                "path": "rules.json"
+            }
+        ]
+    }
+}

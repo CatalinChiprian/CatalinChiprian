@@ -1,0 +1,21 @@
+ # Ignore Python virtual environment
+**/venv/
+**/.venv/
+
+# Ignore Node modules
+**/node_modules/
+
+# Ignore OS and editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment/settings
+config/settings.py
+
+output.*
+background.mp4

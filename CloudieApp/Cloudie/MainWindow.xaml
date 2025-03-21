@@ -1,0 +1,110 @@
+﻿<Window x:Class="Cloudie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cloudie"
+        xmlns:view="clr-namespace:Cloudie.View"
+        xmlns:viewmodel="clr-namespace:Cloudie.ViewModel"
+        xmlns:store="clr-namespace:Cloudie.Store"
+        mc:Ignorable="d"
+        Title="Cloudie"
+        WindowStartupLocation="CenterScreen" 
+        WindowStyle="None"
+        Width="800"
+        MinHeight="700" 
+        MinWidth="700"
+        Icon="assets/appicon/Logo.ico"
+        x:Name="AppWindow">
+
+    <Window.Background>
+        <ImageBrush ImageSource="assets/bg/background.png"/>
+    </Window.Background>
+
+    <Grid Name="WindowContent">
+        <Grid.Resources>
+          <DataTemplate DataType="{x:Type viewmodel:MainPageViewModel}">
+              <view:MainPageView/>
+          </DataTemplate>
+          <DataTemplate DataType="{x:Type viewmodel:WeatherGraphViewModel}">
+              <view:WeatherGraphView/>
+          </DataTemplate>
+          <DataTemplate DataType="{x:Type viewmodel:DeviceInfoPageViewModel}">
+              <view:DeviceInfoPage/>
+          </DataTemplate>
+        </Grid.Resources>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Column="0" Grid.RowSpan="2" Background="#00bfff" Opacity="0.8">
+            <StackPanel VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+                <Button Style="{StaticResource SwapPageButton}"
+                        DataContext="{Binding CurrentViewModel}"
+                        Command="{Binding ToStats}">
+                    <Image Source="assets/appicon/home.png"
+                           Height="30" Width="30"/>
+                </Button>
+                
+                <Button Style="{StaticResource SwapPageButton}"
+                        DataContext="{Binding CurrentViewModel}"
+                        Command="{Binding ToGraphs}">
+                    <Image Source="assets/appicon/bar-graph.png"
+                           Height="30" Width="30"/>
+                </Button>
+
+                <Button Style="{StaticResource SwapPageButton}"
+                        DataContext="{Binding CurrentViewModel}"
+                        Command="{Binding ToDeviceInfo}">
+                    <Image Source="assets/appicon/info.png"
+                           Height="30" Width="30"/>
+                </Button>
+
+            </StackPanel>
+        </Grid>
+
+        <Canvas Grid.Row="0" Grid.ColumnSpan="2">
+            <Rectangle MouseLeftButtonDown="Rectangle_MouseLeftButtonDown" 
+                               Canvas.ZIndex="1" 
+                               Height="20" Width="{Binding ElementName=AppWindow, Path=ActualWidth}"
+                               Fill="Transparent"/>
+        </Canvas>
+
+        <Grid Name="ToolBar" Grid.Row="0" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Image HorizontalAlignment="Center"
+              VerticalAlignment="Center"
+              Source="/assets/logo/LogoIco.png" 
+              Stretch="UniformToFill" Grid.Column="1" Height="153" Width="153"/>
+
+            <Button Content="X"
+               Style="{StaticResource ExitButton}"
+               Command="{Binding ExitAppCommand}"
+               Height="20" Width="40"
+               BorderThickness="1"
+               HorizontalAlignment="Right"
+               VerticalAlignment="Top">
+                <Button.DataContext>
+                    <viewmodel:MainWindowViewModel/>
+                </Button.DataContext>
+            </Button>
+        </Grid>
+
+
+        <ContentControl Content="{Binding CurrentViewModel}" Grid.Row="1" Grid.Column="1"/>
+    </Grid>
+</Window>

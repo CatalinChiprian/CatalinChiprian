@@ -1,0 +1,588 @@
+\begin{theindex}
+
+  \item {ActualHeight}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {ActualWidth}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {AddEventHandler}
+    \subitem {XamlGeneratedNamespace.GeneratedInternalTypeHelper}, 
+		\hyperpage{52}
+  \item {AllTime}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+  \item {Altitude}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{72}
+  \item {App}
+    \subitem {Cloudie.App}, \hyperpage{40}
+  \item {AverageData}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{85}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{58}
+  \item {Avg\_Up\_Time}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{72}
+  \item {AvgTemp}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{72}
+
+  \indexspace
+
+  \item {Battery\_voltage}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{72}
+  \item {Brand\_ID}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{72}
+
+  \indexspace
+
+  \item {CanExecute}
+    \subitem {Cloudie.Commands.CommandBase}, \hyperpage{44}
+  \item {CanExecuteChanged}
+    \subitem {Cloudie.Commands.CommandBase}, \hyperpage{45}
+  \item {CenterLocation}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{48}
+  \item {CheckedCitiesData}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {CheckedCity}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {CheckedCityCommand}
+    \subitem {Cloudie.Commands.CheckedCityCommand}, \hyperpage{42}
+  \item {Cities}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{85}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{58}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {Cities\_WhenNew\_ShouldNotBeNull}
+    \subitem {CloudieTesting.WeatherStatsTests}, \hyperpage{86}
+  \item {City}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{48}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{58}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {CityColors}
+    \subitem {Cloudie.Model.CityData}, \hyperpage{43}
+  \item {CityLoad}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{85}
+  \item {CityLoad\_ShouldLoadCities}
+    \subitem {CloudieTesting.WeatherStatsTests}, \hyperpage{86}
+  \item {Cloudie}, \hyperpage{1}, \hyperpage{35}
+  \item {Cloudie.App}, \hyperpage{39}
+    \subitem {App}, \hyperpage{40}
+    \subitem {InitializeComponent}, \hyperpage{40}
+    \subitem {Main}, \hyperpage{40}
+    \subitem {OnStartup}, \hyperpage{41}
+  \item {Cloudie.Commands}, \hyperpage{35}
+  \item {Cloudie.Commands.CheckedCityCommand}, \hyperpage{41}
+    \subitem {CheckedCityCommand}, \hyperpage{42}
+    \subitem {Execute}, \hyperpage{42}
+  \item {Cloudie.Commands.CommandBase}, \hyperpage{44}
+    \subitem {CanExecute}, \hyperpage{44}
+    \subitem {CanExecuteChanged}, \hyperpage{45}
+    \subitem {Execute}, \hyperpage{45}
+    \subitem {OnCanExecutedChanged}, \hyperpage{45}
+  \item {Cloudie.Commands.ToDeviceInfoCommand}, \hyperpage{65}
+    \subitem {Execute}, \hyperpage{66}
+    \subitem {ToDeviceInfoCommand}, \hyperpage{66}
+  \item {Cloudie.Commands.ToGraphsCommand}, \hyperpage{66}
+    \subitem {Execute}, \hyperpage{68}
+    \subitem {ToGraphsCommand}, \hyperpage{67}
+  \item {Cloudie.Commands.ToStatsCommand}, \hyperpage{68}
+    \subitem {Execute}, \hyperpage{69}
+    \subitem {ToStatsCommand}, \hyperpage{69}
+  \item {Cloudie.MainWindow}, \hyperpage{61}
+    \subitem {InitializeComponent}, \hyperpage{62}
+    \subitem {MainWindow}, \hyperpage{62}
+  \item {Cloudie.Model}, \hyperpage{36}
+  \item {Cloudie.Model.CityData}, \hyperpage{43}
+    \subitem {CityColors}, \hyperpage{43}
+    \subitem {IsChecked}, \hyperpage{43}
+    \subitem {Name}, \hyperpage{43}
+  \item {Cloudie.Model.WeatherData}, \hyperpage{71}
+    \subitem {Altitude}, \hyperpage{72}
+    \subitem {Avg\_Up\_Time}, \hyperpage{72}
+    \subitem {AvgTemp}, \hyperpage{72}
+    \subitem {Battery\_voltage}, \hyperpage{72}
+    \subitem {Brand\_ID}, \hyperpage{72}
+    \subitem {Date}, \hyperpage{72}
+    \subitem {Device\_ID}, \hyperpage{73}
+    \subitem {Ext\_Sensor\_Name}, \hyperpage{73}
+    \subitem {Ext\_Sensor\_Value}, \hyperpage{73}
+    \subitem {Gateway\_ID}, \hyperpage{73}
+    \subitem {Gateway\_name}, \hyperpage{73}
+    \subitem {Humidity}, \hyperpage{73}
+    \subitem {Lat}, \hyperpage{73}
+    \subitem {Long}, \hyperpage{73}
+    \subitem {Model\_ID}, \hyperpage{74}
+    \subitem {Pressure}, \hyperpage{74}
+    \subitem {RSSI}, \hyperpage{74}
+    \subitem {Temperature}, \hyperpage{74}
+    \subitem {Uniq\_ID}, \hyperpage{74}
+  \item {Cloudie.Model.WeatherHistory}, \hyperpage{82}
+    \subitem {Date}, \hyperpage{83}
+    \subitem {ImagePath}, \hyperpage{83}
+    \subitem {TempString}, \hyperpage{83}
+    \subitem {WeatherHistory}, \hyperpage{83}
+  \item {Cloudie.Model.WeatherStats}, \hyperpage{84}
+    \subitem {AverageData}, \hyperpage{85}
+    \subitem {Cities}, \hyperpage{85}
+    \subitem {CityLoad}, \hyperpage{85}
+    \subitem {Data}, \hyperpage{85}
+    \subitem {DataLoad}, \hyperpage{85}
+    \subitem {GateAwaysData}, \hyperpage{86}
+    \subitem {GateWayCities}, \hyperpage{86}
+    \subitem {GateWayLoad}, \hyperpage{85}
+    \subitem {SelectedCity}, \hyperpage{85}
+    \subitem {WeatherStats}, \hyperpage{84}
+  \item {Cloudie.Store}, \hyperpage{36}
+  \item {Cloudie.Store.NavigationStore}, \hyperpage{63}
+    \subitem {CurrentViewModel}, \hyperpage{64}
+    \subitem {CurrentViewModelChanged}, \hyperpage{64}
+  \item {Cloudie.View}, \hyperpage{36}
+  \item {Cloudie.View.DeviceInfoPage}, \hyperpage{45}
+    \subitem {DeviceInfoPage}, \hyperpage{46}
+    \subitem {InitializeComponent}, \hyperpage{46}
+  \item {Cloudie.View.DivideConverter}, \hyperpage{49}
+    \subitem {Convert}, \hyperpage{50}
+    \subitem {ConvertBack}, \hyperpage{50}
+  \item {Cloudie.View.MainPageView}, \hyperpage{54}
+    \subitem {InitializeComponent}, \hyperpage{55}
+    \subitem {MainPageView}, \hyperpage{55}
+  \item {Cloudie.View.WeatherGraphView}, \hyperpage{74}
+    \subitem {InitializeComponent}, \hyperpage{75}
+    \subitem {WeatherGraphView}, \hyperpage{75}
+  \item {Cloudie.ViewModel}, \hyperpage{36}
+  \item {Cloudie.ViewModel.DeviceInfoPageViewModel}, \hyperpage{47}
+    \subitem {CenterLocation}, \hyperpage{48}
+    \subitem {City}, \hyperpage{48}
+    \subitem {DeviceInfoPageViewModel}, \hyperpage{48}
+    \subitem {Gateaway\_ID}, \hyperpage{48}
+    \subitem {Location}, \hyperpage{48}
+    \subitem {ToDeviceInfo}, \hyperpage{49}
+    \subitem {ToGraphs}, \hyperpage{49}
+    \subitem {ToStats}, \hyperpage{49}
+    \subitem {WeatherS}, \hyperpage{49}
+    \subitem {ZoomLevel}, \hyperpage{49}
+  \item {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{56}
+    \subitem {AverageData}, \hyperpage{58}
+    \subitem {Cities}, \hyperpage{58}
+    \subitem {City}, \hyperpage{58}
+    \subitem {Data}, \hyperpage{58}
+    \subitem {Date}, \hyperpage{58}
+    \subitem {GetDaySuffix}, \hyperpage{57}
+    \subitem {Hour}, \hyperpage{58}
+    \subitem {Humidity}, \hyperpage{59}
+    \subitem {Labels}, \hyperpage{59}
+    \subitem {MainPageViewModel}, \hyperpage{57}
+    \subitem {Png}, \hyperpage{59}
+    \subitem {Pressure}, \hyperpage{59}
+    \subitem {Temperature}, \hyperpage{59}
+    \subitem {ToDeviceInfo}, \hyperpage{59}
+    \subitem {ToGraphs}, \hyperpage{59}
+    \subitem {ToStats}, \hyperpage{59}
+    \subitem {UpdateCityData}, \hyperpage{58}
+    \subitem {Visibility}, \hyperpage{59}
+    \subitem {WeatherHistoryView}, \hyperpage{59}
+    \subitem {weatherS}, \hyperpage{58}
+    \subitem {WeatherStats}, \hyperpage{60}
+  \item {Cloudie.ViewModel.MainView}, \hyperpage{60}
+    \subitem {CurrentViewModel}, \hyperpage{61}
+    \subitem {MainView}, \hyperpage{61}
+  \item {Cloudie.ViewModel.MainWindowViewModel}, \hyperpage{63}
+    \subitem {MainWindowViewModel}, \hyperpage{63}
+  \item {Cloudie.ViewModel.ViewModelBase}, \hyperpage{70}
+    \subitem {OnPropertyChanged}, \hyperpage{70}
+    \subitem {PropertyChanged}, \hyperpage{71}
+  \item {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{76}
+    \subitem {ActualHeight}, \hyperpage{79}
+    \subitem {ActualWidth}, \hyperpage{79}
+    \subitem {AllTime}, \hyperpage{78}
+    \subitem {CheckedCitiesData}, \hyperpage{79}
+    \subitem {CheckedCity}, \hyperpage{79}
+    \subitem {Cities}, \hyperpage{79}
+    \subitem {City}, \hyperpage{79}
+    \subitem {CustomRange}, \hyperpage{78}
+    \subitem {DateFilterChanged}, \hyperpage{78}
+    \subitem {DateVisibility}, \hyperpage{79}
+    \subitem {EndDate}, \hyperpage{79}
+    \subitem {GraphHeight}, \hyperpage{79}
+    \subitem {GraphsPerCity}, \hyperpage{78}
+    \subitem {GraphWidth}, \hyperpage{79}
+    \subitem {HumGraphCoordonates}, \hyperpage{80}
+    \subitem {HumGraphRowColSpan}, \hyperpage{80}
+    \subitem {IllGraphCoordonates}, \hyperpage{80}
+    \subitem {IllGraphRowColSpan}, \hyperpage{80}
+    \subitem {Labels}, \hyperpage{80}
+    \subitem {Last24H}, \hyperpage{78}
+    \subitem {LastMonth}, \hyperpage{78}
+    \subitem {LastWeek}, \hyperpage{78}
+    \subitem {PressGraphCoordonates}, \hyperpage{80}
+    \subitem {PressGraphRowColSpan}, \hyperpage{80}
+    \subitem {SelectedFilter}, \hyperpage{80}
+    \subitem {StartDate}, \hyperpage{80}
+    \subitem {TempGraphCoordonates}, \hyperpage{80}
+    \subitem {TempGraphRowColSpan}, \hyperpage{81}
+    \subitem {ToDeviceInfo}, \hyperpage{81}
+    \subitem {ToGraphs}, \hyperpage{81}
+    \subitem {ToStats}, \hyperpage{81}
+    \subitem {UserDateSelection}, \hyperpage{77}
+    \subitem {UserDateSelectionValues}, \hyperpage{81}
+    \subitem {WeatherGraphViewModel}, \hyperpage{78}
+    \subitem {WeatherHum}, \hyperpage{81}
+    \subitem {WeatherHumVisible}, \hyperpage{81}
+    \subitem {WeatherIll}, \hyperpage{81}
+    \subitem {WeatherIllVisible}, \hyperpage{81}
+    \subitem {WeatherPress}, \hyperpage{81}
+    \subitem {WeatherPressVisible}, \hyperpage{82}
+    \subitem {weatherS}, \hyperpage{78}
+    \subitem {WeatherTemp}, \hyperpage{82}
+    \subitem {WeatherTempVisible}, \hyperpage{82}
+    \subitem {YFormatter}, \hyperpage{82}
+  \item {Cloudie/App.xaml.cs}, \hyperpage{89}
+  \item {Cloudie/AssemblyInfo.cs}, \hyperpage{89}
+  \item {Cloudie/Commands/CheckedCityComand.cs}, \hyperpage{89}
+  \item {Cloudie/Commands/CommandBase.cs}, \hyperpage{89}
+  \item {Cloudie/Commands/ToDeviceInfoCommand.cs}, \hyperpage{90}
+  \item {Cloudie/Commands/ToGraphsCommand.cs}, \hyperpage{90}
+  \item {Cloudie/Commands/ToStatsCommand.cs}, \hyperpage{90}
+  \item {Cloudie/MainWindow.xaml.cs}, \hyperpage{91}
+  \item {Cloudie/Model/CityData.cs}, \hyperpage{91}
+  \item {Cloudie/Model/WeatherData.cs}, \hyperpage{91}
+  \item {Cloudie/Model/WeatherHistory.cs}, \hyperpage{91}
+  \item {Cloudie/Model/WeatherStats.cs}, \hyperpage{92}
+  \item {Cloudie/obj/Debug/net7.0-\/windows/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs}, 
+		\hyperpage{92}
+  \item {Cloudie/obj/Debug/net7.0-\/windows/App.g.cs}, \hyperpage{92}
+  \item {Cloudie/obj/Debug/net7.0-\/windows/App.g.i.cs}, \hyperpage{93}
+  \item {Cloudie/obj/Release/net7.0-\/windows/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs}, 
+		\hyperpage{92}
+  \item {Cloudie/obj/Release/net7.0-\/windows/App.g.cs}, \hyperpage{93}
+  \item {CloudieTesting}, \hyperpage{37}
+  \item {CloudieTesting.NavigationTest}, \hyperpage{64}
+    \subitem {CurrentViewModel\_WhenNew\_ShouldBeNull}, \hyperpage{64}
+    \subitem {CurrentViewModel\_WhenSet\_ShouldUpdateCurrentViewModel}, 
+		\hyperpage{64}
+    \subitem {NavigationTest}, \hyperpage{64}
+  \item {CloudieTesting.WeatherStatsTests}, \hyperpage{86}
+    \subitem {Cities\_WhenNew\_ShouldNotBeNull}, \hyperpage{86}
+    \subitem {CityLoad\_ShouldLoadCities}, \hyperpage{86}
+    \subitem {DataLoad\_ShouldLoadDataForCity}, \hyperpage{87}
+    \subitem {GateAwaysData\_WhenNew\_ShouldNotBeNull}, \hyperpage{87}
+    \subitem {GateWayCities\_WhenNew\_ShouldNotBeNull}, \hyperpage{87}
+    \subitem {GateWayLoad\_ShouldLoadGateways}, \hyperpage{87}
+    \subitem {WeatherStatsTests}, \hyperpage{86}
+  \item {CloudieTesting/obj/Debug/net7.0-\/windows/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs}, 
+		\hyperpage{92}
+  \item {CloudieTesting/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs}, 
+		\hyperpage{92}
+  \item {Convert}
+    \subitem {Cloudie.View.DivideConverter}, \hyperpage{50}
+  \item {ConvertBack}
+    \subitem {Cloudie.View.DivideConverter}, \hyperpage{50}
+  \item {CreateDelegate}
+    \subitem {XamlGeneratedNamespace.GeneratedInternalTypeHelper}, 
+		\hyperpage{52}
+  \item {CreateInstance}
+    \subitem {XamlGeneratedNamespace.GeneratedInternalTypeHelper}, 
+		\hyperpage{53}
+  \item {CurrentViewModel}
+    \subitem {Cloudie.Store.NavigationStore}, \hyperpage{64}
+    \subitem {Cloudie.ViewModel.MainView}, \hyperpage{61}
+  \item {CurrentViewModel\_WhenNew\_ShouldBeNull}
+    \subitem {CloudieTesting.NavigationTest}, \hyperpage{64}
+  \item {CurrentViewModel\_WhenSet\_ShouldUpdateCurrentViewModel}
+    \subitem {CloudieTesting.NavigationTest}, \hyperpage{64}
+  \item {CurrentViewModelChanged}
+    \subitem {Cloudie.Store.NavigationStore}, \hyperpage{64}
+  \item {CustomRange}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+
+  \indexspace
+
+  \item {Data}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{85}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{58}
+  \item {DataLoad}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{85}
+  \item {DataLoad\_ShouldLoadDataForCity}
+    \subitem {CloudieTesting.WeatherStatsTests}, \hyperpage{87}
+  \item {Date}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{72}
+    \subitem {Cloudie.Model.WeatherHistory}, \hyperpage{83}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{58}
+  \item {DateFilterChanged}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+  \item {DateVisibility}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {Device\_ID}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{73}
+  \item {DeviceInfoPage}
+    \subitem {Cloudie.View.DeviceInfoPage}, \hyperpage{46}
+  \item {DeviceInfoPageViewModel}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{48}
+
+  \indexspace
+
+  \item {EndDate}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {Execute}
+    \subitem {Cloudie.Commands.CheckedCityCommand}, \hyperpage{42}
+    \subitem {Cloudie.Commands.CommandBase}, \hyperpage{45}
+    \subitem {Cloudie.Commands.ToDeviceInfoCommand}, \hyperpage{66}
+    \subitem {Cloudie.Commands.ToGraphsCommand}, \hyperpage{68}
+    \subitem {Cloudie.Commands.ToStatsCommand}, \hyperpage{69}
+  \item {Ext\_Sensor\_Name}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{73}
+  \item {Ext\_Sensor\_Value}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{73}
+
+  \indexspace
+
+  \item {Gateaway\_ID}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{48}
+  \item {GateAwaysData}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{86}
+  \item {GateAwaysData\_WhenNew\_ShouldNotBeNull}
+    \subitem {CloudieTesting.WeatherStatsTests}, \hyperpage{87}
+  \item {Gateway\_ID}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{73}
+  \item {Gateway\_name}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{73}
+  \item {GateWayCities}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{86}
+  \item {GateWayCities\_WhenNew\_ShouldNotBeNull}
+    \subitem {CloudieTesting.WeatherStatsTests}, \hyperpage{87}
+  \item {GateWayLoad}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{85}
+  \item {GateWayLoad\_ShouldLoadGateways}
+    \subitem {CloudieTesting.WeatherStatsTests}, \hyperpage{87}
+  \item {GetDaySuffix}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{57}
+  \item {GetPropertyValue}
+    \subitem {XamlGeneratedNamespace.GeneratedInternalTypeHelper}, 
+		\hyperpage{53}
+  \item {GraphHeight}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+  \item {GraphsPerCity}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+  \item {GraphWidth}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{79}
+
+  \indexspace
+
+  \item {Hour}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{58}
+  \item {HumGraphCoordonates}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {HumGraphRowColSpan}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {Humidity}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{73}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+
+  \indexspace
+
+  \item {IllGraphCoordonates}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {IllGraphRowColSpan}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {ImagePath}
+    \subitem {Cloudie.Model.WeatherHistory}, \hyperpage{83}
+  \item {InitializeComponent}
+    \subitem {Cloudie.App}, \hyperpage{40}
+    \subitem {Cloudie.MainWindow}, \hyperpage{62}
+    \subitem {Cloudie.View.DeviceInfoPage}, \hyperpage{46}
+    \subitem {Cloudie.View.MainPageView}, \hyperpage{55}
+    \subitem {Cloudie.View.WeatherGraphView}, \hyperpage{75}
+  \item {IsChecked}
+    \subitem {Cloudie.Model.CityData}, \hyperpage{43}
+
+  \indexspace
+
+  \item {Labels}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {Last24H}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+  \item {LastMonth}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+  \item {LastWeek}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+  \item {Lat}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{73}
+  \item {Location}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{48}
+  \item {Long}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{73}
+
+  \indexspace
+
+  \item {Main}
+    \subitem {Cloudie.App}, \hyperpage{40}
+  \item {MainPageView}
+    \subitem {Cloudie.View.MainPageView}, \hyperpage{55}
+  \item {MainPageViewModel}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{57}
+  \item {MainView}
+    \subitem {Cloudie.ViewModel.MainView}, \hyperpage{61}
+  \item {MainWindow}
+    \subitem {Cloudie.MainWindow}, \hyperpage{62}
+  \item {MainWindowViewModel}
+    \subitem {Cloudie.ViewModel.MainWindowViewModel}, \hyperpage{63}
+  \item {Model\_ID}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{74}
+
+  \indexspace
+
+  \item {Name}
+    \subitem {Cloudie.Model.CityData}, \hyperpage{43}
+  \item {NavigationTest}
+    \subitem {CloudieTesting.NavigationTest}, \hyperpage{64}
+
+  \indexspace
+
+  \item {OnCanExecutedChanged}
+    \subitem {Cloudie.Commands.CommandBase}, \hyperpage{45}
+  \item {OnPropertyChanged}
+    \subitem {Cloudie.ViewModel.ViewModelBase}, \hyperpage{70}
+  \item {OnStartup}
+    \subitem {Cloudie.App}, \hyperpage{41}
+
+  \indexspace
+
+  \item {Png}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+  \item {PressGraphCoordonates}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {PressGraphRowColSpan}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {Pressure}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{74}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+  \item {PropertyChanged}
+    \subitem {Cloudie.ViewModel.ViewModelBase}, \hyperpage{71}
+
+  \indexspace
+
+  \item {RSSI}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{74}
+
+  \indexspace
+
+  \item {SelectedCity}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{85}
+  \item {SelectedFilter}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {SetPropertyValue}
+    \subitem {XamlGeneratedNamespace.GeneratedInternalTypeHelper}, 
+		\hyperpage{54}
+  \item {StartDate}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+
+  \indexspace
+
+  \item {Temperature}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{74}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+  \item {TempGraphCoordonates}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{80}
+  \item {TempGraphRowColSpan}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {TempString}
+    \subitem {Cloudie.Model.WeatherHistory}, \hyperpage{83}
+  \item {ToDeviceInfo}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{49}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {ToDeviceInfoCommand}
+    \subitem {Cloudie.Commands.ToDeviceInfoCommand}, \hyperpage{66}
+  \item {ToGraphs}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{49}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {ToGraphsCommand}
+    \subitem {Cloudie.Commands.ToGraphsCommand}, \hyperpage{67}
+  \item {ToStats}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{49}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {ToStatsCommand}
+    \subitem {Cloudie.Commands.ToStatsCommand}, \hyperpage{69}
+
+  \indexspace
+
+  \item {Uniq\_ID}
+    \subitem {Cloudie.Model.WeatherData}, \hyperpage{74}
+  \item {UpdateCityData}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{58}
+  \item {UserDateSelection}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{77}
+  \item {UserDateSelectionValues}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+
+  \indexspace
+
+  \item {Visibility}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+
+  \indexspace
+
+  \item {WeatherGraphView}
+    \subitem {Cloudie.View.WeatherGraphView}, \hyperpage{75}
+  \item {WeatherGraphViewModel}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+  \item {WeatherHistory}
+    \subitem {Cloudie.Model.WeatherHistory}, \hyperpage{83}
+  \item {WeatherHistoryView}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{59}
+  \item {WeatherHum}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {WeatherHumVisible}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {WeatherIll}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {WeatherIllVisible}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {WeatherPress}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{81}
+  \item {WeatherPressVisible}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{82}
+  \item {WeatherS}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{49}
+  \item {weatherS}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{58}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{78}
+  \item {WeatherStats}
+    \subitem {Cloudie.Model.WeatherStats}, \hyperpage{84}
+    \subitem {Cloudie.ViewModel.MainPageViewModel}, \hyperpage{60}
+  \item {WeatherStatsTests}
+    \subitem {CloudieTesting.WeatherStatsTests}, \hyperpage{86}
+  \item {WeatherTemp}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{82}
+  \item {WeatherTempVisible}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{82}
+
+  \indexspace
+
+  \item {XamlGeneratedNamespace}, \hyperpage{37}
+  \item {XamlGeneratedNamespace.GeneratedInternalTypeHelper}, 
+		\hyperpage{50}
+    \subitem {AddEventHandler}, \hyperpage{52}
+    \subitem {CreateDelegate}, \hyperpage{52}
+    \subitem {CreateInstance}, \hyperpage{53}
+    \subitem {GetPropertyValue}, \hyperpage{53}
+    \subitem {SetPropertyValue}, \hyperpage{54}
+
+  \indexspace
+
+  \item {YFormatter}
+    \subitem {Cloudie.ViewModel.WeatherGraphViewModel}, \hyperpage{82}
+
+  \indexspace
+
+  \item {ZoomLevel}
+    \subitem {Cloudie.ViewModel.DeviceInfoPageViewModel}, 
+		\hyperpage{49}
+
+\end{theindex}

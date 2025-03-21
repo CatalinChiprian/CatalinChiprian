@@ -1,0 +1,8 @@
+*/.vs
+*/node_modules
+CloudieApp/Cloudie/bin
+CloudieApp/Cloudie/obj
+CloudieApp/CloudieTesting/bin
+CloudieApp/CloudieTesting/obj
+Weather/Weather/bin
+Weather/Weather/obj

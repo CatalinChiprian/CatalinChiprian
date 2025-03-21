@@ -1,0 +1,157 @@
+\doxysection{Cloudie.\+Model.\+Weather\+Stats Class Reference}
+\hypertarget{class_cloudie_1_1_model_1_1_weather_stats}{}\label{class_cloudie_1_1_model_1_1_weather_stats}\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+
+
+Represents the Weather\+Stats object that does all the work exctracting the data directly from the database.  
+
+
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_a4c98b9b17feb399ba617beb81a042eab}{Weather\+Stats}} ()
+\begin{DoxyCompactList}\small\item\em Initializes a new instance of the Weather\+Stats class. \end{DoxyCompactList}\item 
+async Task \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_aa3e47924f7a9cd80516aac102cde86f0}{City\+Load}} ()
+\begin{DoxyCompactList}\small\item\em Loads the names of the cities and their gateways. \end{DoxyCompactList}\item 
+async Task \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_ab4f30b08340e996fa1131c122737cf6d}{Gate\+Way\+Load}} ()
+\begin{DoxyCompactList}\small\item\em Loads the gateway data. \end{DoxyCompactList}\item 
+async Task \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_aed30551df7251fe31e6163837fd84121}{Data\+Load}} (string City)
+\begin{DoxyCompactList}\small\item\em Loads the data for a specific city. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+IList$<$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}} $>$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_a75068543aef0236e4e0849a3cf604cdc}{Data}} = new Observable\+Collection$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$()
+\begin{DoxyCompactList}\small\item\em Gets or sets the data. \end{DoxyCompactList}\item 
+string? \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_aae33d5df10b0672bc7e6e76cd9f40406}{Selected\+City}}
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+Observable\+Collection$<$ string $>$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_a7263ce03c3b942445ba69d60e54fe789}{Cities}} = new Observable\+Collection$<$string$>$()\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Gets or sets the cities. \end{DoxyCompactList}\item 
+Observable\+Collection$<$ string $>$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_ad3a0d476fb4b48b6a5b9a2ae9658bd10}{Gate\+Way\+Cities}} = new Observable\+Collection$<$string$>$()\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Gets or sets the name of the gateway of the cities. \end{DoxyCompactList}\item 
+Dictionary$<$ string, \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}} $>$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_a9c148b2085a1e50f555ba88ec914ef7f}{Gate\+Aways\+Data}} = new Dictionary$<$string, \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$()\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Gets or sets the gateways data. \end{DoxyCompactList}\item 
+Observable\+Collection$<$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}} $>$ \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_stats_a227cd12b734dd3d18472296c127741a0}{Average\+Data}} = new Observable\+Collection$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$()\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Gets or sets the averaged data from the Data object. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Represents the Weather\+Stats object that does all the work exctracting the data directly from the database. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_a4c98b9b17feb399ba617beb81a042eab}\label{class_cloudie_1_1_model_1_1_weather_stats_a4c98b9b17feb399ba617beb81a042eab} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!WeatherStats@{WeatherStats}}
+\index{WeatherStats@{WeatherStats}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{WeatherStats()}{WeatherStats()}}
+{\footnotesize\ttfamily Cloudie.\+Model.\+Weather\+Stats.\+Weather\+Stats (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Initializes a new instance of the Weather\+Stats class. 
+
+
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_aa3e47924f7a9cd80516aac102cde86f0}\label{class_cloudie_1_1_model_1_1_weather_stats_aa3e47924f7a9cd80516aac102cde86f0} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!CityLoad@{CityLoad}}
+\index{CityLoad@{CityLoad}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{CityLoad()}{CityLoad()}}
+{\footnotesize\ttfamily async Task Cloudie.\+Model.\+Weather\+Stats.\+City\+Load (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Loads the names of the cities and their gateways. 
+
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_aed30551df7251fe31e6163837fd84121}\label{class_cloudie_1_1_model_1_1_weather_stats_aed30551df7251fe31e6163837fd84121} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!DataLoad@{DataLoad}}
+\index{DataLoad@{DataLoad}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{DataLoad()}{DataLoad()}}
+{\footnotesize\ttfamily async Task Cloudie.\+Model.\+Weather\+Stats.\+Data\+Load (\begin{DoxyParamCaption}\item[{string}]{City }\end{DoxyParamCaption})}
+
+
+
+Loads the data for a specific city. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em City} & The city.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_ab4f30b08340e996fa1131c122737cf6d}\label{class_cloudie_1_1_model_1_1_weather_stats_ab4f30b08340e996fa1131c122737cf6d} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!GateWayLoad@{GateWayLoad}}
+\index{GateWayLoad@{GateWayLoad}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{GateWayLoad()}{GateWayLoad()}}
+{\footnotesize\ttfamily async Task Cloudie.\+Model.\+Weather\+Stats.\+Gate\+Way\+Load (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Loads the gateway data. 
+
+
+
+\doxysubsection{Member Data Documentation}
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_a75068543aef0236e4e0849a3cf604cdc}\label{class_cloudie_1_1_model_1_1_weather_stats_a75068543aef0236e4e0849a3cf604cdc} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!Data@{Data}}
+\index{Data@{Data}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{Data}{Data}}
+{\footnotesize\ttfamily IList$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$ Cloudie.\+Model.\+Weather\+Stats.\+Data = new Observable\+Collection$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$()}
+
+
+
+Gets or sets the data. 
+
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_aae33d5df10b0672bc7e6e76cd9f40406}\label{class_cloudie_1_1_model_1_1_weather_stats_aae33d5df10b0672bc7e6e76cd9f40406} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!SelectedCity@{SelectedCity}}
+\index{SelectedCity@{SelectedCity}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{SelectedCity}{SelectedCity}}
+{\footnotesize\ttfamily string? Cloudie.\+Model.\+Weather\+Stats.\+Selected\+City}
+
+
+
+\doxysubsection{Property Documentation}
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_a227cd12b734dd3d18472296c127741a0}\label{class_cloudie_1_1_model_1_1_weather_stats_a227cd12b734dd3d18472296c127741a0} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!AverageData@{AverageData}}
+\index{AverageData@{AverageData}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{AverageData}{AverageData}}
+{\footnotesize\ttfamily Observable\+Collection$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$ Cloudie.\+Model.\+Weather\+Stats.\+Average\+Data = new Observable\+Collection$<$\mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$()\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Gets or sets the averaged data from the Data object. 
+
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_a7263ce03c3b942445ba69d60e54fe789}\label{class_cloudie_1_1_model_1_1_weather_stats_a7263ce03c3b942445ba69d60e54fe789} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!Cities@{Cities}}
+\index{Cities@{Cities}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{Cities}{Cities}}
+{\footnotesize\ttfamily Observable\+Collection$<$string$>$ Cloudie.\+Model.\+Weather\+Stats.\+Cities = new Observable\+Collection$<$string$>$()\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Gets or sets the cities. 
+
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_a9c148b2085a1e50f555ba88ec914ef7f}\label{class_cloudie_1_1_model_1_1_weather_stats_a9c148b2085a1e50f555ba88ec914ef7f} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!GateAwaysData@{GateAwaysData}}
+\index{GateAwaysData@{GateAwaysData}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{GateAwaysData}{GateAwaysData}}
+{\footnotesize\ttfamily Dictionary$<$string, \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$ Cloudie.\+Model.\+Weather\+Stats.\+Gate\+Aways\+Data = new Dictionary$<$string, \mbox{\hyperlink{class_cloudie_1_1_model_1_1_weather_data}{Weather\+Data}}$>$()\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Gets or sets the gateways data. 
+
+\Hypertarget{class_cloudie_1_1_model_1_1_weather_stats_ad3a0d476fb4b48b6a5b9a2ae9658bd10}\label{class_cloudie_1_1_model_1_1_weather_stats_ad3a0d476fb4b48b6a5b9a2ae9658bd10} 
+\index{Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}!GateWayCities@{GateWayCities}}
+\index{GateWayCities@{GateWayCities}!Cloudie.Model.WeatherStats@{Cloudie.Model.WeatherStats}}
+\doxysubsubsection{\texorpdfstring{GateWayCities}{GateWayCities}}
+{\footnotesize\ttfamily Observable\+Collection$<$string$>$ Cloudie.\+Model.\+Weather\+Stats.\+Gate\+Way\+Cities = new Observable\+Collection$<$string$>$()\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+
+
+Gets or sets the name of the gateway of the cities. 
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Cloudie/\+Model/\mbox{\hyperlink{_weather_stats_8cs}{Weather\+Stats.\+cs}}\end{DoxyCompactItemize}

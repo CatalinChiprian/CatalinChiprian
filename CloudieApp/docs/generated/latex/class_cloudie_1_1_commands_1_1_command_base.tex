@@ -1,0 +1,97 @@
+\doxysection{Cloudie.\+Commands.\+Command\+Base Class Reference}
+\hypertarget{class_cloudie_1_1_commands_1_1_command_base}{}\label{class_cloudie_1_1_commands_1_1_command_base}\index{Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}}
+
+
+Base class for commands.  
+
+
+Inheritance diagram for Cloudie.\+Commands.\+Command\+Base\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=1.603053cm]{class_cloudie_1_1_commands_1_1_command_base}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+virtual bool \mbox{\hyperlink{class_cloudie_1_1_commands_1_1_command_base_af82af5c20c287466e8a1c50a7bf69769}{Can\+Execute}} (object parameter)
+\begin{DoxyCompactList}\small\item\em Defines the method that determines whether the command can execute in its current state. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_cloudie_1_1_commands_1_1_command_base_a083c4758400f1f85d1e3654616700f70}{Execute}} (object parameter)
+\begin{DoxyCompactList}\small\item\em Defines the method to be called when the command is invoked. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_cloudie_1_1_commands_1_1_command_base_ac8fef1b2f6b7394eba134770b2c8ecfc}{On\+Can\+Executed\+Changed}} ()
+\begin{DoxyCompactList}\small\item\em Invokes the Can\+Execute\+Changed event. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Events}
+\begin{DoxyCompactItemize}
+\item 
+Event\+Handler \mbox{\hyperlink{class_cloudie_1_1_commands_1_1_command_base_ad58fd0159630cae7b12819b299675c16}{Can\+Execute\+Changed}}
+\begin{DoxyCompactList}\small\item\em Occurs when changes occur that affect whether or not the command should execute. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Base class for commands. 
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_cloudie_1_1_commands_1_1_command_base_af82af5c20c287466e8a1c50a7bf69769}\label{class_cloudie_1_1_commands_1_1_command_base_af82af5c20c287466e8a1c50a7bf69769} 
+\index{Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}!CanExecute@{CanExecute}}
+\index{CanExecute@{CanExecute}!Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}}
+\doxysubsubsection{\texorpdfstring{CanExecute()}{CanExecute()}}
+{\footnotesize\ttfamily virtual bool Cloudie.\+Commands.\+Command\+Base.\+Can\+Execute (\begin{DoxyParamCaption}\item[{object}]{parameter }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+
+
+Defines the method that determines whether the command can execute in its current state. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em parameter} & Data used by the command. If the command does not require data to be passed, this object can be set to null.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+true if this command can be executed; otherwise, false.
+\end{DoxyReturn}
+\Hypertarget{class_cloudie_1_1_commands_1_1_command_base_a083c4758400f1f85d1e3654616700f70}\label{class_cloudie_1_1_commands_1_1_command_base_a083c4758400f1f85d1e3654616700f70} 
+\index{Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}!Execute@{Execute}}
+\index{Execute@{Execute}!Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}}
+\doxysubsubsection{\texorpdfstring{Execute()}{Execute()}}
+{\footnotesize\ttfamily void Cloudie.\+Commands.\+Command\+Base.\+Execute (\begin{DoxyParamCaption}\item[{object}]{parameter }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [abstract]}}
+
+
+
+Defines the method to be called when the command is invoked. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em parameter} & Data used by the command. If the command does not require data to be passed, this object can be set to null.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_cloudie_1_1_commands_1_1_command_base_ac8fef1b2f6b7394eba134770b2c8ecfc}\label{class_cloudie_1_1_commands_1_1_command_base_ac8fef1b2f6b7394eba134770b2c8ecfc} 
+\index{Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}!OnCanExecutedChanged@{OnCanExecutedChanged}}
+\index{OnCanExecutedChanged@{OnCanExecutedChanged}!Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}}
+\doxysubsubsection{\texorpdfstring{OnCanExecutedChanged()}{OnCanExecutedChanged()}}
+{\footnotesize\ttfamily void Cloudie.\+Commands.\+Command\+Base.\+On\+Can\+Executed\+Changed (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [protected]}}
+
+
+
+Invokes the Can\+Execute\+Changed event. 
+
+
+
+\doxysubsection{Event Documentation}
+\Hypertarget{class_cloudie_1_1_commands_1_1_command_base_ad58fd0159630cae7b12819b299675c16}\label{class_cloudie_1_1_commands_1_1_command_base_ad58fd0159630cae7b12819b299675c16} 
+\index{Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}!CanExecuteChanged@{CanExecuteChanged}}
+\index{CanExecuteChanged@{CanExecuteChanged}!Cloudie.Commands.CommandBase@{Cloudie.Commands.CommandBase}}
+\doxysubsubsection{\texorpdfstring{CanExecuteChanged}{CanExecuteChanged}}
+{\footnotesize\ttfamily Event\+Handler Cloudie.\+Commands.\+Command\+Base.\+Can\+Execute\+Changed}
+
+
+
+Occurs when changes occur that affect whether or not the command should execute. 
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Cloudie/\+Commands/\mbox{\hyperlink{_command_base_8cs}{Command\+Base.\+cs}}\end{DoxyCompactItemize}

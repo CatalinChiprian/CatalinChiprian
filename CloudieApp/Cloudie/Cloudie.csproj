@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\appicon\bar-graph.png" />
+    <None Remove="assets\appicon\home.png" />
+    <None Remove="assets\appicon\info.png" />
+    <None Remove="assets\appicon\Logo.ico" />
+    <None Remove="assets\bg\background.png" />
+    <None Remove="assets\logo\Logo.png" />
+    <None Remove="assets\logo\LogoIco.png" />
+    <None Remove="assets\weathericons\cloudy.png" />
+    <None Remove="assets\weathericons\snow.png" />
+    <None Remove="assets\weathericons\storm.png" />
+    <None Remove="assets\weathericons\sun.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="Microsoft.Maps.MapControl.WPF" Version="1.0.0.3" />
+    <PackageReference Include="NUnit" Version="4.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\appicon\bar-graph.png" />
+    <Resource Include="assets\appicon\home.png" />
+    <Resource Include="assets\appicon\info.png" />
+    <Resource Include="assets\appicon\Logo.ico" />
+    <Resource Include="assets\bg\background.png" />
+    <Resource Include="assets\logo\Logo.png" />
+    <Resource Include="assets\logo\LogoIco.png" />
+    <Resource Include="assets\weathericons\cloudy.png" />
+    <Resource Include="assets\weathericons\snow.png" />
+    <Resource Include="assets\weathericons\storm.png" />
+    <Resource Include="assets\weathericons\sun.png" />
+  </ItemGroup>
+
+</Project>

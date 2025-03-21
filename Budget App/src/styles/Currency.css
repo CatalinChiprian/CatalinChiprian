@@ -1,0 +1,11 @@
+/* Style the select element */
+.select-currency {
+    background-color: #d1e7dd;
+    border: none; /* Remove default border */
+    color: #333; /* Text color */
+    padding: 5px; /* Add padding for better appearance */
+    cursor: pointer; /* Change cursor on hover */
+  }
+  
+  /* Style the select element when hovering */
+  

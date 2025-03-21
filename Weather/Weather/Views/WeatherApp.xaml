@@ -1,0 +1,125 @@
+﻿<UserControl x:Class="Weather.Views.WeatherApp"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Weather.Views"
+             mc:Ignorable="d"
+             d:DesignHeight="685" d:DesignWidth="995" Background="Transparent"
+             FontFamily="Cambria" Name="WeatherPage">
+    
+    <!--Credits to youtuber C# WPF UI Academy for the inspired style-->
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="260"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Border>
+            <Border CornerRadius="30 0 0 30" Background="White">
+                <StackPanel>
+                    <Border BorderBrush="LightGray" BorderThickness="1" CornerRadius="15" Width="200" HorizontalAlignment="Center" Margin="0 35 0 0">
+                        <Grid Margin="7">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBox Text="{Binding CitySearch, UpdateSourceTrigger=PropertyChanged}" x:Name="SearchWrite" TextChanged="TextChanged" Style="{StaticResource TextBox}">
+                                <TextBox.InputBindings>
+                                    <KeyBinding Command="{Binding EnterCommand}" Key="Enter">
+                                    </KeyBinding>
+                                </TextBox.InputBindings>
+                            </TextBox>
+                            <TextBlock  x:Name="SearchBox" MouseDown="SearchBox_OnMouseDown" Text="Search..." Style="{StaticResource TextWatermark}"/>
+                           
+                        </Grid>
+                    </Border>
+                    <StackPanel Margin="50 10 0 0">
+                        <Image Source="{Binding Png, UpdateSourceTrigger=PropertyChanged}"  Width="140" HorizontalAlignment="Left"/>
+                        <TextBlock Text="{Binding Temperature, UpdateSourceTrigger=PropertyChanged}" FontSize="26" FontWeight="SemiBold"/>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="-5 5 0 0">
+                            <Label Content="H:"></Label>
+                            <Label Content="{Binding DayMax[0], UpdateSourceTrigger=PropertyChanged}" Margin="-5 0 0 0"/>
+                            <Label Content="L:"></Label>
+                            <Label Content="{Binding DayMin[0], UpdateSourceTrigger=PropertyChanged}" Margin="-5 0 0 0"/>
+                            </StackPanel>
+                            <TextBlock Text="{Binding DayName[0], UpdateSourceTrigger=PropertyChanged}" FontSize="18" FontWeight="SemiBold" Margin="0 10 0 0"/>
+                        <Separator Background="#dadada" Height="0.8" Margin="3 15 40 15"/>
+                    </StackPanel>
+                    
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding CityName, UpdateSourceTrigger=PropertyChanged}" FontSize="20" FontWeight="SemiBold" Margin="50 0 0 0" VerticalAlignment="Center" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0 10 0 77">
+                        <TextBlock Text="{Binding Country, UpdateSourceTrigger=PropertyChanged}" FontSize="24" FontWeight="SemiBold" Margin="50 0 0 0" VerticalAlignment="Center" />
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </Border>
+        <Border CornerRadius="0 30 30 0" Grid.Column="1" Background="LightGray">
+            <StackPanel>
+                <!--Top-->
+                <Grid Margin="40 30 40 10">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center">
+                        <Label Content="Main Menu" Style="{DynamicResource TextButton}">
+                            <Label.InputBindings>
+                                <MouseBinding MouseAction="LeftClick" Command="{Binding MMCommand}"/>
+                            </Label.InputBindings>
+                        </Label>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Button x:Name="CButton" Content="°C" Click="Button_Click" Command="{Binding CCommand, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource Activebutton}"/>
+                        <Button x:Name="FButton" Content="°F" Click="Button_Click" Command="{Binding FCommand, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource Button}" Margin="10 0 0 0"/>
+                    </StackPanel>
+                </Grid>
+                <Label Content="Hourly" Margin="40 0 0 0 " FontSize="14" FontWeight="SemiBold"/>
+                   <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Margin="40 0 10 20" >
+                        <StackPanel Orientation="Horizontal">
+                            <local:CardDay Day="{Binding HourForecastTime[0], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[0], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[0], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[1], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[1], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[1], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[2], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[2], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[2], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[3], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[3], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[3], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[4], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[4], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[4], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[5], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[5], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[5], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[6], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[6], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[6], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[7], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[7], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[7], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[8], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[8], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[8], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[9], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[9], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[9], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[10], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[10], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[10], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[11], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[11], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[11], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[12], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[12], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[12], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[13], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[13], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[13], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[14], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[14], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[14], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[15], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[15], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[15], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[16], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[16], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[16], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[17], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[17], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[17], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[18], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[18], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[18], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[19], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[19], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[19], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[20], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[20], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[20], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[21], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[21], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[21], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[22], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[22], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[22], UpdateSourceTrigger=PropertyChanged}"/>
+                            <local:CardDay Day="{Binding HourForecastTime[23], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding HourForecastTemperature[23], UpdateSourceTrigger=PropertyChanged}" Source="{Binding HourForecastPng[23], UpdateSourceTrigger=PropertyChanged}"/>
+                    </StackPanel>
+                </ScrollViewer>
+                <Label Content="Daily" Margin="40 0 0 0 " FontSize="14" FontWeight="SemiBold"/>
+                <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Margin="40 0 10 20" >
+                <StackPanel Orientation="Horizontal">
+                    <local:CardDay Day="{Binding DayName[1], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[1], UpdateSourceTrigger=PropertyChanged}" MinNum="{Binding DayMin[1]}" Source="{Binding DayIcon[1], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[2], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[2]}" MinNum="{Binding DayMin[2], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[2], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[3], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[3]}" MinNum="{Binding DayMin[3], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[3], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[4], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[4]}" MinNum="{Binding DayMin[4], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[4], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[5], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[5]}" MinNum="{Binding DayMin[5], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[5], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[6], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[6]}" MinNum="{Binding DayMin[6], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[6], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[7], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[7]}" MinNum="{Binding DayMin[7], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[7], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[8], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[8]}" MinNum="{Binding DayMin[8], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[8], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[9], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[9]}" MinNum="{Binding DayMin[9], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[9], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[10], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[10]}" MinNum="{Binding DayMin[10], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[10], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[11], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[11]}" MinNum="{Binding DayMin[11], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[11], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[12], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[12]}" MinNum="{Binding DayMin[12], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[12], UpdateSourceTrigger=PropertyChanged}"/>
+                    <local:CardDay Day="{Binding DayName[13], UpdateSourceTrigger=PropertyChanged}" MaxNum="{Binding DayMax[13]}" MinNum="{Binding DayMin[13], UpdateSourceTrigger=PropertyChanged}" Source="{Binding DayIcon[13], UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+                </ScrollViewer>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>
